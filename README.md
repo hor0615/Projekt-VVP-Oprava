@@ -28,8 +28,11 @@ if path is None:
 ```
 ## Ukázky
 Vygenerované bludiště
+
 ![Vygenerované bludiště](Maze.generated.png)
+
 Vyřešené bludiště
+
 ![Vyřešené bludiště](Maze.solved.png)
 
 ##Struktura celého projektu
