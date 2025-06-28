@@ -27,5 +27,27 @@ if path is None:
     print("No path found")
 ```
 ## Ukázky
+Vygenerované bludiště
 ![Vygenerované bludiště](Maze.generated.png)
+Vyřešené bludiště
 ![Vyřešené bludiště](Maze.solved.png)
+
+##Struktura celého projektu
+Project_VVP_labyrinth/
+├── labyrinth/
+│   ├── maze.py            
+│   ├── pathfinder.py      
+│   └── __init__.py        
+├── examples/
+│   ├── example_maze.csv  
+│   └── example_maze_2.csv 
+│   └── example_maze_3.csv
+│   └── generated_maze.csv
+│   └── generated_maze_2.csv
+├── tests
+│   └── test_generator.py
+│   └── test_maze.py
+│   └── test_pathfinder.py
+├── Jupyter_maze.ipynb
+├── README.md            
+
