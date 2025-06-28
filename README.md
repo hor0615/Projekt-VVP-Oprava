@@ -35,7 +35,8 @@ Vyřešené bludiště
 
 ![Vyřešené bludiště](Maze.solved.png)
 
-##Struktura celého projektu
+## Struktura celého projektu
+
 Project_VVP_labyrinth/
 ├── labyrinth/
 │   ├── maze.py            
