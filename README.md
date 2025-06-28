@@ -27,5 +27,5 @@ if path is None:
     print("No path found")
 ```
 ## Ukázky
-![Vygenerované bludiště](Project_VVP_labyrinth/Maze.generated.png)
-![Vyřešené bludiště](Project_VVP_labyrinth/Maze.solved.png)
+![Vygenerované bludiště](Projekt-VVP-Oprava/Maze.generated.png)
+![Vyřešené bludiště](Projekt-VVP-Oprava/Maze.solved.png)
